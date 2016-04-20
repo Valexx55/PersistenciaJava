@@ -1,0 +1,4 @@
+PlazoMaxDev: 15
+PorcentajeComision: 2.5
+PrecioArreglo: 3.5 
+FechaCaducidadVale: 45 
